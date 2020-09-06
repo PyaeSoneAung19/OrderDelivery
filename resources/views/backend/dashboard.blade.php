@@ -43,7 +43,7 @@
 	                                        	<td>{{$i++}}</td>
                                                 <td>{{$order->orderdate}}</td>
 	                                            <td>{{$order->voucherno}}</td>
-                                                <td>{{$order->status}}</td>
+                                                <td>{{$order->user->name}}</td>
                                                 <td>{{$order->total}}</td>
                                                 
 	                                            {{-- <td class="text-center"> 
