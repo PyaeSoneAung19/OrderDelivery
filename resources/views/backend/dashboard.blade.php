@@ -29,7 +29,7 @@
                                             <th>No</th>
                                             <th>Orderdate</th>
                                             <th>Voucher No</th>
-                                            <th>Status</th>
+                                            <th>Customer Name</th>
                                             <th>Total</th>
                                             
                                             {{-- <th class="text-center">Action</th> --}}
